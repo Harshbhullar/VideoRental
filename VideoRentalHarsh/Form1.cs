@@ -119,6 +119,7 @@ namespace VideoRentalHarsh
         }
 
         public void Update(string query)
+
         {
             connection = new SqlConnection(connectionStr);
             connection.Open();
