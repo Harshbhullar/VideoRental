@@ -237,9 +237,9 @@
             this.label2.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(12, 86);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(76, 24);
+            this.label2.Size = new System.Drawing.Size(68, 24);
             this.label2.TabIndex = 66;
-            this.label2.Text = "Ratting";
+            this.label2.Text = "Grade";
             // 
             // label16
             // 

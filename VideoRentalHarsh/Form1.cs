@@ -141,6 +141,7 @@ namespace VideoRentalHarsh
 
         private void Add_Video_Click(object sender, EventArgs e)
         {
+            //for adding this to mean that to add movie to table
             // this block is used to add the recor to the movie_table in the database that is used insert the record with the help of exception method try-catch
             // try {
 
